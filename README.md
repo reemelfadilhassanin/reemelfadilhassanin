@@ -9,8 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reemelfadilhassanin" alt="reemelfadilhassanin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-### 🏆 Certifications  
-- **Software Engineering Certificate** – ALX  
+🏆 Certifications  
+- Software Engineering Certificate – ALX  
 
 - 🔭 My last project [NEXTSTEP](https://github.com/reemelfadilhassanin/NextStep)
 - 🌱 SEE THE WEBSITE http://54.175.146.29:3002
