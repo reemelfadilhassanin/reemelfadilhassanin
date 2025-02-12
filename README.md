@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Reem</h1>
 <h3 align="center">A passionate backend developer from Sudan</h3>
+<h3 align="center">Software DeveloperEngineering certified from ALX</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reemelfadilhassanin&label=Profile%20views&color=0e75b6&style=flat" alt="reemelfadilhassanin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reemelfadilhassanin" alt="reemelfadilhassanin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🏆 Certifications  
+- **Software Engineering Certificate** – ALX  
 
-- 🔭 I’m currently working on [0x02-ES6_classes](https://github.com/reemelfadilhassanin/alx-backend-javascript)
-
-- 🌱 I’m currently learning **Alx academy**
+- 🔭 My last project [NEXTSTEP](https://github.com/reemelfadilhassanin/NextStep)
+- 🌱 SEE THE WEBSITE http://54.175.146.29:3002
 
 - 👯 I’m looking to collaborate on [smart-hub-reading](https://github.com/reemelfadilhassanin/smart-hub-reading)
 
