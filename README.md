@@ -43,16 +43,15 @@
 ### 🌟 Projects
 
 - 🔥 [NEXTSTEP](https://github.com/reemelfadilhassanin/NextStep)  
-  Live Preview 👉 [http://54.175.146.29:3002](http://54.175.146.29:3002)
+  Live Preview  [http://54.175.146.29:3002](http://54.175.146.29:3002)
 
-- 📚 [Smart Hub Reading](https://github.com/reemelfadilhassanin/smart-hub-reading)  
-  🤝 Open to collaborators and contributors!
-
-🔎 Explore more → [GitHub Repos](https://github.com/reemelfadilhassanin?tab=repositories)
+- [Smart Hub Reading](https://github.com/reemelfadilhassanin/smart-hub-reading)  
+  Open to collaborators and contributors!
+ Explore more → [GitHub Repos](https://github.com/reemelfadilhassanin?tab=repositories)
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
 - justreemjust49@gmail.com  
 - [LinkedIn](https://linkedin.com/in/reem-hasanin-a22a51177)    
@@ -60,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reemelfadilhassanin&show_icons=true&theme=default" alt="Reem's GitHub Stats" />
